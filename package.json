@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "21.0.0",
+  "description": "[![Actions Status](https://github.com/AleksandraBuxarinaAkaChajnikInTgxd/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AleksandraBuxarinaAkaChajnikInTgxd/frontend-project-44/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AleksandraBuxarinaAkaChajnikInTgxd/frontend-project-44.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AleksandraBuxarinaAkaChajnikInTgxd/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/AleksandraBuxarinaAkaChajnikInTgxd/frontend-project-44#readme"
+}
